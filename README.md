@@ -1,2 +1,4 @@
-# docker-compose-collection
-Docker-Compose-Collection
+# Docker-Compose-Collection
+
+by Gerold Penz 2022
+
