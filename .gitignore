@@ -151,6 +151,3 @@ node_modules/
 # Yarn Integrity file
 .yarn-integrity
 
-www
-ionic_dest
-ionic_dist
